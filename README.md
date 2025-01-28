@@ -1,17 +1,17 @@
 ![PixelMapIconsBanner](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/ollix_pixelmapicons_thunderstore_banner.png)
 
-### Pixel Map Icons
 ---
+# ![en_US](https://raw.githubusercontent.com/TheOllix/icons24px/refs/heads/main/24_en_US.png) Pixel Map Icons 
 
 A collection of hand-drawn pixel art icons by me to use as map pins in Valheim!
 
 *These icons were designed to work in conjunction with [KGvalheim's MoreMapPins](https://thunderstore.io/c/valheim/p/KGvalheim/MoreMapPins/) but by renaming them you can make them fit in almost any mod that adds map pins.*
 
-I'll try to update this mod everytime I'm done with a biome.
+I'll try to update this mod everytime I'm done with a biome's icon set.
 
-Feel free to request ([Github Issue](https://github.com/TheOllix/PixelMapIcons/issues)) a specific icon that you think fits the theme.
+Feel free to use the ([Github Issue Page](https://github.com/TheOllix/PixelMapIcons/issues)) to request icons or suggest changes to existing ones.
 
-If you are not sure what each icon means, [here is a list of the original file names for each icon.](https://github.com/TheOllix/PixelMapIcons/blob/main/IconNames.md)
+If you are not sure what each icon is supposed to be, [here is a list of the original file names for each icon.](https://github.com/TheOllix/PixelMapIcons/blob/main/IconNames.md)
 
 ***Warning: This icon pack will override the icons you already have at MoreMapPins' config folder.***
 
@@ -26,6 +26,47 @@ If you are not sure what each icon means, [here is a list of the original file n
 ### Changelog
 ---
 
+- 1.2.0 - Added 8 more swamp themed pins for a total of 45
 - 1.1.1 - Added 8 pins and made a list with all icon names
 - 1.0.1 - Updated Thunderstore Icon
 - 1.0.0 - First upload - Meadows and Generic icons
+
+Please consider giving this mod a thumbs up, it helps with visibility :D
+
+---
+<details>
+<summary>Readme em Português Brasileiro</summary>
+
+---
+
+# ![pt_BR](https://raw.githubusercontent.com/TheOllix/icons24px/refs/heads/main/24_pt_BR.png) Pixel Map Icons 
+
+Uma coleção de ícones desenhados à mão em pixel art por mim para serem usados como pinos de mapa em Valheim!
+
+Estes ícones foram projetados para funcionar em conjunto com [MoreMapPins de KGvalheim](https://thunderstore.io/c/valheim/p/KGvalheim/MoreMapPins/), mas renomeando-os, você pode ajustá-los a quase qualquer mod que adicione pinos de mapa.
+
+Vou tentar atualizar este mod sempre que eu terminar um conjunto de ícones de um bioma.
+
+Sinta-se à vontade para usar a ([Página de Issues no Github](https://github.com/TheOllix/PixelMapIcons/issues)) para solicitar ícones ou sugerir alterações aos existentes.
+
+Se você não tem certeza do que cada ícone representa, [aqui está uma lista dos nomes originais dos arquivos de cada ícone.](https://github.com/TheOllix/PixelMapIcons/blob/main/IconNames.md)
+
+***Aviso: Este pacote de ícones substituirá os ícones que você já tem na pasta de configuração do MoreMapPins.***
+
+### Categorias de ícones de mapa (até agora)
+---
+
+| 1-20 | 21-50 | 61-100 | 101-200 | 201-300 | 301-400 | 401-500 | 901-999 |
+|-------|---|---|---|---|---|---|---|
+| Pins Genéricos | Masmorras | Estruturas do Mundo | Minérios | Monstros e Criaturas | Plantas | Recursos | Utilidades |
+
+### Registro de Alterações
+---
+
+- 1.2.0 - Adicionados mais 8 pinos com tema de pântano, totalizando 45
+- 1.1.1 - Adicionados 8 pinos e feita uma lista com todos os nomes dos ícones
+- 1.0.1 - Ícone do Thunderstore atualizado
+- 1.0.0 - Primeiro upload - Ícones de Meadows e Genéricos
+
+Por favor, considere dar um joinha, isso ajuda na visibilidade :D
+</details>
