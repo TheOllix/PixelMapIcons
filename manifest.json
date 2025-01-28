@@ -1,0 +1,10 @@
+{
+  "name": "PixelMapIcons",
+  "version_number": "1.0",
+  "website_url": "",
+  "description": "Many hand-drawn pixel art icons to use as pins in Valheim!",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+	  "KGvalheim-MoreMapPins-1.0.0"
+  ]
+}
