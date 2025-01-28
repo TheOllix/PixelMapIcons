@@ -18,4 +18,4 @@ Feel free to request ([Github Issue](https://github.com/TheOllix/PixelMapIcons/i
 
 #### Changelog
 
-- 1.0 - First upload - Meadows and Generic icons
+- 1.0.0 - First upload - Meadows and Generic icons
