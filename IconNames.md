@@ -42,7 +42,7 @@
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/310.png) | plant_onion |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/401.png) | resource_honey |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/402.png) | resource_guck |
-| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/403.png) | resource_coins |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/404.png) | resource_coins |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/403.png) | resource_dragon_egg |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/405.png) | resource_obsidian |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/901.png) | icon_check |
