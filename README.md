@@ -3,7 +3,7 @@
 ---
 # ![en_US](https://raw.githubusercontent.com/TheOllix/icons24px/refs/heads/main/24_en_US.png) Pixel Map Icons 
 
-A collection of hand-drawn pixel art icons by me to use as map pins in Valheim!
+A collection of hand-drawn Valheim themed pixel art icons to use as map pins!
 
 *These icons were designed to work in conjunction with [KGvalheim's MoreMapPins](https://thunderstore.io/c/valheim/p/KGvalheim/MoreMapPins/) but by renaming them you can make them fit in almost any mod that adds map pins.*
 
@@ -22,11 +22,18 @@ If you are not sure what each icon is supposed to be, [here is a list of the ori
 |-------|---|---|---|---|---|---|---|
 | Generic Pins | Dungeons | World Structures | Ores | Monsters and Creatures | Plants | Resources | Utilities |
 
+<details>
+<summary>Screenshots</summary>
+
+![Screenshot Map](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/screenshot.jpg)
+</details>
 
 ### Changelog
 ---
 
-- 1.2.0 - Added 8 more swamp themed pins for a total of 45
+- 1.3.0 - Added 5 mountains themed pins for a total of 50
+- 1.2.1 - Fixed the pin icons that were missing white pixels
+- 1.2.0 - Added 8 swamp themed pins for a total of 45
 - 1.1.1 - Added 8 pins and made a list with all icon names
 - 1.0.1 - Updated Thunderstore Icon
 - 1.0.0 - First upload - Meadows and Generic icons
@@ -63,8 +70,10 @@ Se você não tem certeza do que cada ícone representa, [aqui está uma lista d
 ### Registro de Alterações
 ---
 
-- 1.2.0 - Adicionados mais 8 pinos com tema de pântano, totalizando 45
-- 1.1.1 - Adicionados 8 pinos e feita uma lista com todos os nomes dos ícones
+- 1.3.0 - Adicionados mais 5 ícones com tema de Mountain, totalizando 45
+- 1.2.1 - Corrigido os ícones de pino que estavam faltando pixels brancos
+- 1.2.0 - Adicionados mais 8 ícones com tema de Swamp, totalizando 45
+- 1.1.1 - Adicionados 8 ícones e feita uma lista com todos os nomes dos ícones
 - 1.0.1 - Ícone do Thunderstore atualizado
 - 1.0.0 - Primeiro upload - Ícones de Meadows e Genéricos
 
