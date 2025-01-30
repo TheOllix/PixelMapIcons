@@ -31,14 +31,16 @@ If you are not sure what each icon is supposed to be, [here is a list of the ori
 ### Changelog
 ---
 
-#### Latest - 1.4.0
-    - Added all ores that were missing 
-    - Added a more natural version of each ore
-    - Added a new lava inspired dragon egg
+#### Latest - 1.4.1
+    - I messed up the icons IDs, should be fixed now
 
 <details>
 <summary>Previous changelogs (Click to expand)</summary> 
 
+#### 1.4.0
+    - Added all ores that were missing 
+    - Added a more natural version of each ore
+    - Added a new lava inspired dragon egg
 #### 1.3.0 
     - Added 5 mountains themed pins for a total of 50
 #### 1.2.1 
