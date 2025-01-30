@@ -48,13 +48,14 @@
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/308.png) | plant_turnip |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/309.png) | mushroom_blue |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/310.png) | plant_onion |
-| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/401.png) | resource_honey |
-| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/402.png) | resource_guck |
-| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/403.png) | resource_coins |
-| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/404.png) | resource_dragon_egg |
-| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/405.png) | resource_obsidian |
-| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/406.png) | resource_lava_dragon_egg |
-| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/407.png) | resource_stone |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/403.png) | placeholder (403-408, 411) |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/410.png) | resource_stone |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/412.png) | resource_obsidian |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/413.png) | resource_guck |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/415.png) | resource_dragon_egg |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/416.png) | resource_lava_dragon_egg |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/421.png) | resource_honey |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/422.png) | resource_coins |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/901.png) | icon_check |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/902.png) | icon_no |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/903.png) | icon_exclamation |
