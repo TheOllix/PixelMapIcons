@@ -18,7 +18,7 @@ If you are not sure what each icon is supposed to be, [here is a list of the ori
 ### Map icon categories (until now)
 ---
 
-| 1-20 | 21-50 | 61-100 | 101-200 | 201-300 | 301-400 | 401-500 | 901-999 |
+| 1-20 | 21-50 | 61-100 | 101-200 | 201-300 | 301-400 | 403-500 | 901-999 |
 |-------|---|---|---|---|---|---|---|
 | Generic Pins | Dungeons | World Structures | Ores | Monsters and Creatures | Plants | Resources | Utilities |
 
@@ -31,12 +31,16 @@ If you are not sure what each icon is supposed to be, [here is a list of the ori
 ### Changelog
 ---
 
-#### Latest - 1.4.1
-    - I messed up the icons IDs, should be fixed now
+#### Latest - Hotfix - 1.4.2
+    - I messed up again, the 401 & 402 icons were conflicting with EpicLoot
+    - Now the Resources start at 403
+    - Added placeholders for future resource icons like wood (403-408)
 
 <details>
 <summary>Previous changelogs (Click to expand)</summary> 
 
+#### 1.4.1
+    - I messed up the icons IDs, should be fixed now
 #### 1.4.0
     - Added all ores that were missing 
     - Added a more natural version of each ore
