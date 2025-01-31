@@ -16,11 +16,12 @@
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/24.png) | dungeon_troll_cave |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/25.png) | dungeon_sunken_crypts |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/26.png) | dungeon_frost_cave |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/55.png) | structure_campfire |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/61.png) | structure_house |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/62.png) | structure_chest |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/63.png) | structure_boat |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/64.png) | structure_tower |
-| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/65.png) | structure_fire_geyser |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/66.png) | structure_fire_geyser |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/81.png) | portal_red |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/82.png) | portal_blue |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/101.png) | ore_copper |
