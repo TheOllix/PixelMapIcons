@@ -22,6 +22,7 @@
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/63.png) | structure_boat |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/64.png) | structure_tower |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/66.png) | structure_fire_geyser |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/67.png) | structure_anchor |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/81.png) | portal_red |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/82.png) | portal_blue |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/101.png) | ore_copper |
@@ -39,6 +40,7 @@
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/201.png) | enemy_greydwarf |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/202.png) | enemy_skeleton |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/203.png) | enemy_troll |
+| ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/204.png) | enemy_abomination |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/301.png) | plant_raspberry |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/302.png) | mushroom_red |
 | ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/303.png) | plant_blueberry |
