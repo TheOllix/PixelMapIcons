@@ -1,8 +1,8 @@
 {
   "name": "PixelMapIcons",
-  "version_number": "1.4.3",
+  "version_number": "1.4.5",
   "website_url": "https://github.com/TheOllix/PixelMapIcons",
-  "description": "Over 50 hand-drawn Valheim themed pixel art icons to use as map pins!",
+  "description": "Over 70 hand-drawn Valheim themed pixel art icons to use as map pins!",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
 	  "KGvalheim-MoreMapPins-1.0.0"

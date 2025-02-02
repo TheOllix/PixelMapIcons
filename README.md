@@ -1,7 +1,7 @@
 ![PixelMapIconsBanner](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/ollix_pixelmapicons_thunderstore_banner.png)
 
 ---
-# ![](https://raw.githubusercontent.com/TheOllix/icons24px/refs/heads/main/24_map.png) Pixel Map Icons 
+# ![](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/config/MoreMapPins/6.png) Pixel Map Icons 
 
 A collection of hand-drawn Valheim themed pixel art icons to use as map pins!
 
@@ -22,22 +22,39 @@ If you are not sure what each icon is supposed to be, [here is a list of the ori
 |-------|---|---|---|---|---|---|---|
 | Generic Pins | Dungeons | World Structures | Ores | Monsters and Creatures | Plants | Resources | Utilities |
 
+--- 
+
 <details>
 <summary>Screenshots (Click to expand)</summary>
 
 ![Screenshot Map](https://raw.githubusercontent.com/TheOllix/PixelMapIcons/refs/heads/main/screenshot.jpg)
 </details>
 
+---
+
+### License and credits
+
+The code is released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+The artwork (created by [**TheOllix**](https://thunderstore.io/c/valheim/p/TheOllix/)) is distributed under the [Creative Commons Attribution 4.0 International (CC-BY-4.0) license](https://creativecommons.org/licenses/by/4.0/).
+
+All credits for the original code goes to [KGvalheim](https://thunderstore.io/c/valheim/p/KGvalheim/), thank you for your fantastic mod!
+
 ### Changelog
 ---
 
-#### Latest - 1.4.3
-    - Added campfire and reworked fire geyser icon to better match the in-game object
-    - To avoid conflicts, Structures now start at 55, your already placed icons should not change
+#### Latest - 1.4.5
+    - Total number of icons: 70
+    - Added anchor (requested by u/MaximilianPs) icon.
+    - Added Abomination (Swamp).The Abomination icon was hard to figure out because the monster is huge, so I went with its "passive form" aka hollow stump that releases green toxic gases xD
+    - Updated the mod and artwork's license
 
 <details>
 <summary>Previous changelogs (Click to expand)</summary> 
 
+### 1.4.3
+    - Added campfire and reworked fire geyser icon to better match the in-game object (requested by u/OldGrowler89)
+    - To avoid conflicts, Structures now start at 55, your already placed icons should not change
 ### 1.4.2
     - I messed up again, the 401 & 402 icons were conflicting with EpicLoot
     - Now the Resources start at 403
